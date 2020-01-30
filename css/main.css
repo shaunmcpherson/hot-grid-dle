@@ -23,7 +23,7 @@ body {
   line-height: 1.3;
 }
 
-figure {
+.wrap {
   padding: 0;
   margin: 0;
 }
@@ -43,7 +43,7 @@ img {
   left: .5rem;
 }
 
-figcaption {
+p {
   color: #fff;
   position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
